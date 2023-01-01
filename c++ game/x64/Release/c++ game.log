@@ -1,0 +1,23 @@
+﻿  Coins.cpp
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(8,17): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(8,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(9,17): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(9,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(14,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(14,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(19,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(20,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(28,17): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(28,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(29,17): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(29,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(34,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(34,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(39,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ecola\source\repos\c++ game\c++ game\Coins.cpp(40,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 24 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  c++ game.vcxproj -> C:\Users\ecola\source\repos\c++ game\x64\Release\c++ game.exe
