@@ -12,6 +12,14 @@ void meteorite::Setmode(bool _mode)
 }
 
 
+void meteorite::Reset()
+{
+	mode = false;
+	Position.y = 525;
+
+}
+
+
 void meteorite::Controller()
 {
 	DrawCircleV(Position, radius, DARKBROWN);

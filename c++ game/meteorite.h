@@ -6,6 +6,7 @@ class meteorite
 {
 public:
 	static void Setmode(bool _mode);
+	static void Reset();
 	static void Controller();
 	static void CheckCollisionS(Rectangle Player);
 };

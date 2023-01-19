@@ -44,6 +44,8 @@ int main() {
             }
             else if (!startGame && gameOver) 
             {
+                Modes::ModeReset();
+                meteorite::Reset();
                 RenderGameOver(score, highScore);
                 if (IsKeyDown(KEY_ENTER)) { 
                     if (score > highScore) highScore = score;

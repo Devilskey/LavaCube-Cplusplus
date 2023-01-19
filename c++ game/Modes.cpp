@@ -8,6 +8,15 @@ static float timer;
 static int mode;
 static bool justStarted = false;
 
+void Modes::ModeReset() {
+	player::SetJumpSpeed(true);
+	player::SetKrimpingSpeedModes(false);
+	meteorite::Setmode(false);
+	timer = 10;
+	justStarted = false;
+	mode = 3;
+}
+
 void Modes::ModeUpdate() {
 	if (!justStarted) {
 		timer = 10;
